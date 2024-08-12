@@ -33,9 +33,9 @@ A modelagem dos dados envolveu a escolha de algoritmos de machine learning aprop
 
 Com base nos resultados dos nossos modelos, chegamos às seguintes conclusões:
 
-2. **Previsão de Pontos**:
+1. **Previsão de Pontos**:
     - Dividimos o resultado do coeficiente por 10 para uma melhor compreensão do resultado. Podemos dizer que a cada 10% abaixo do time mais caro, haveria uma perda de 5.3 pontos em média. Erro Absoluto Médio foi é de 7.6, uma margem de erro aceitável num mundo de dados fartos mas de surpresas imprevisíveis como é o futebol.
 
-3. **Recomendações**:
+2. **Recomendações**:
     - Para melhorar ainda mais a análise de valores, recomendamos um estudo também aprofundado em equipes que formam jogadores, assim diminuindo seus gastos na aquisição de estrelas.
     - Para a previsão de pontos, sugere-se a incorporação de mais variáveis como folha salarial e orçamento disponível e usado para gastos estruturais.
